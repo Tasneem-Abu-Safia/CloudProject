@@ -3,6 +3,14 @@
 <html lang="en">
 <!--begin::Head-->
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PGTEC6SEE8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PGTEC6SEE8');
+</script>
     <base href="">
     <meta charset="utf-8"/>
     <title>
